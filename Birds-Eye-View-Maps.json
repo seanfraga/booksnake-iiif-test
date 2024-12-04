@@ -1,0 +1,28 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://",
+  "@type": "sc:Collection",
+  "label": "Birds-Eye View Maps",
+  "manifests": [
+    {
+      "@id": "https://www.loc.gov/item/73693116/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Aero view of Fitchburg, Massachusetts 1915."
+    },
+    {
+      "@id": "https://www.loc.gov/item/75694543/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Amherst, Mass. 1886."
+    },
+    {
+      "@id": "https://www.loc.gov/item/75694567/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "East Douglas, Mass. 1886."
+    },
+    {
+      "@id": "https://www.loc.gov/item/75694581/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Hinsdale, Mass."
+    }
+  ]
+}
